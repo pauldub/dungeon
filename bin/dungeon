@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'dungeon'
+
+Dungeon::Game.new(1024, 768, true).show

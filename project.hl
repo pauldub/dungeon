@@ -1,0 +1,4 @@
+Todo
+	[_] Create a stance trait.	
+	[_] Create helper functions to deal with tile positions (grid aware). #file:lib/dungeon/level.rb
+
