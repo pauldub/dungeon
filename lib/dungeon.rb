@@ -30,9 +30,3 @@ require_relative 'dungeon/map'
 require_relative 'dungeon/level'
 require_relative 'dungeon/menu'
 require_relative 'dungeon/game'
-
-def Dungeon::start 
-	Dungeon::Game.new(1024, 768, true).show
-end
-
-Dungeon::start()
