@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Dungeon::VERSION
   spec.authors       = ["Paul d'Hubert"]
   spec.email         = ["paul@tymate.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{Game engine}
   spec.description   = %q{A simple game engine: for the fun}
   spec.homepage      = ""
   spec.license       = "MIT"
