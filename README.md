@@ -1,24 +1,18 @@
 # Dungeon
 
-TODO: Write a gem description
+A dungeon game engine.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'dungeon'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install it yourself as:
 
     $ gem install dungeon
+	
+Then run it with:
+
+		$ dungeon
 
 ## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
